@@ -78,3 +78,6 @@ encrypt(text, shift)	Applies Caesar Cipher to encrypt text
 decrypt(text, shift)	Reverses encryption using the same shift
 Tkinter GUI	Takes input, displays output, handles user interaction
 
+🙌 Author
+IDU SAMUEL
+Cybersecurity & Programming Enthusiast
